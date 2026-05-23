@@ -246,4 +246,3 @@ If you have any questions or need help, feel free to:
 
 ---
 
-**Built with ❤️ by [PreetKot](https://github.com/PreetKot)**
